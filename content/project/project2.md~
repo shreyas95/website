@@ -1,0 +1,31 @@
++++
+# Date this page was created.
+date = "2016-04-27"
+
+# Project title.
+title = "Teacher Assistance Software"
+
+# Project summary to display on homepage.
+summary = "Created a software, using Java, which will assist teacher by predicting nature of students to take appropriate (Strict or Friendly) action. This was helpful because a teacher cannot pay attention to an individual student."
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = ""
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["deep-learning"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
++++
+
+Created a software, using Java, which will assist teacher by predicting nature of students to take appropriate (Strict or Friendly) action. This was helpful because a teacher cannot pay attention to an individual student.

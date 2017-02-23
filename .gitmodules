@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/shreyas95/shreyas95.github.io-me.git
